@@ -1,0 +1,93 @@
+body {
+  font-family: "Inter", sans-serif;
+}
+
+.container {
+  min-width: 200px;
+  max-width: 1300px;
+  padding: 0 10px;
+  margin: 0 auto;
+  background-color: #052d38;
+}
+
+ul {
+  list-style: none;
+  display: flex;
+  gap: 20px;
+  color: #a1b5bb;
+}
+
+li > a {
+  text-decoration: none;
+  color: #a1b5bb;
+}
+
+.header {
+  display: flex;
+  justify-content: space-between;
+  padding: 252px;
+}
+
+.wrapper {
+  display: flex;
+  justify-content: space-between;
+  padding: 25px;
+}
+
+.btn {
+  width: 140px;
+  height: 48px;
+  border-radius: 25px;
+  background: #145e76;
+  color: white;
+  border: none;
+}
+
+.main {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 30px;
+}
+
+.btn2 {
+  width: 195px;
+  height: 65px;
+  border-radius: 30px;
+  background: #094556;
+  color: white;
+  border: none;
+  font-size: 18px;
+}
+
+h1 {
+  color: white;
+  font-size: 64px;
+}
+
+p {
+  color: #849499;
+  font-size: 18px;
+}
+
+.btn3 {
+  width: 137px;
+  height: 64px;
+  background: #ffa63a;
+  border: none;
+  color: white;
+  border-radius: 25px;
+}
+
+.btn4 {
+  width: 77px;
+  height: 24px;
+  border: none;
+  color: #b6cdd4;
+  background-color: #052d38;
+  
+}
+
+.images {
+    border-radius: 50px 0px 50px 0px;
+}
